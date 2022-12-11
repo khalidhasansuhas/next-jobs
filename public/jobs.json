@@ -1,0 +1,50 @@
+[
+    {    "id":1,
+        "companyName":"EventGraphia",
+        "location":"dhaka",
+        "jobType":"Remote",
+        "Category":"Web Development",
+        "salary":7050
+
+    },
+    {    "id":2,
+        "companyName":"Nearbuck",
+        "location":"Selet",
+        "jobType":"Onside",
+        "Category":"Full Stack Development",
+        "salary":4783
+
+    },
+    {    "id":3,
+        "companyName":"Login2Xplore",
+        "location":"kolkata",
+        "jobType":"Remote",
+        "Category":"Software Development",
+        "salary":2458
+
+    },
+    {    "id":4,
+        "companyName":"Create Protocol",
+        "location":"Haryana",
+        "jobType":"Remote",
+        "Category":"Mobile App Development",
+        "salary":7050
+
+    },
+    {    "id":5,
+        "companyName":"EventGraphia",
+        "location":"Docsup Private Limited",
+        "jobType":"Remote",
+        "Category":"MERN Stack Development",
+        "salary":1458
+
+    },
+    {    "id":6,
+        "companyName":"Node.js Development",
+        "location":"Docsup Private Limited",
+        "jobType":"Onside",
+        "Category":"Dave Group",
+        "salary":1456
+
+    }
+]
