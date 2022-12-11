@@ -8,14 +8,13 @@ export default function Layout({ children }) {
         <>
             <div className="sm:h-full">
                 <NavBar></NavBar>
-                <main className="grid sm:grid-flow-row-dense sm:grid-cols-6 sm:grid-rows-6 sm:h-screen">
+                <main className="max-w-[1240px] mx-auto grid grid-cols-10 gap-2 ">
 
-                    <div className="sm:col-span-1">
+                    <div className="col-span-10 md:col-span-3 md:mb-5">
                         <LeftSideNav></LeftSideNav>
                     </div>
-                    <div className="sm:col-span-5 gap-2">
+                    <div className=" col-span-10 md:col-span-7 mb-5">
                         <Content></Content>
-
                     </div>
 
                 </main>

@@ -1,5 +1,6 @@
 [
     {    "id":1,
+        "title": "Frontend Web Developer",
         "companyName":"EventGraphia",
         "location":"dhaka",
         "jobType":"Remote",
@@ -8,6 +9,8 @@
 
     },
     {    "id":2,
+    
+    "title": "Junior React Developer",
         "companyName":"Nearbuck",
         "location":"Selet",
         "jobType":"Onside",
@@ -16,6 +19,7 @@
 
     },
     {    "id":3,
+    "title": "Full Stack Developer",
         "companyName":"Login2Xplore",
         "location":"kolkata",
         "jobType":"Remote",
@@ -24,6 +28,7 @@
 
     },
     {    "id":4,
+    "title": "Senior Frontend Web Developer",
         "companyName":"Create Protocol",
         "location":"Haryana",
         "jobType":"Remote",
@@ -32,6 +37,7 @@
 
     },
     {    "id":5,
+    "title": "Backend Web Developer",
         "companyName":"EventGraphia",
         "location":"Docsup Private Limited",
         "jobType":"Remote",
@@ -40,6 +46,7 @@
 
     },
     {    "id":6,
+    "title": "Wordpress Developer",
         "companyName":"Node.js Development",
         "location":"Docsup Private Limited",
         "jobType":"Onside",

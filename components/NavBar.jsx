@@ -44,8 +44,8 @@ const NavBar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <button><a className=" btn-xs mx-3">Log In</a></button>
-                <button><a className=" btn-xs mx-3">Register</a></button>
+                <button className='mr-2 btn-xs px-4'>Log In</button>
+                <button className='mr-2 btn-xs px-4'>Register</button>
                 
             </div>
         </div>
