@@ -1,4 +1,7 @@
 import Head from 'next/head'
+import Content from '../components/Content'
+import Layout from '../components/layout'
+import LeftSideNav from '../components/LeftSideNav'
 import NavBar from '../components/NavBar'
 
 export default function Home() {
@@ -10,7 +13,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       
-      <NavBar></NavBar>
+      <Layout></Layout>
+      
     </div>
   )
 }
