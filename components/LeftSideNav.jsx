@@ -2,13 +2,15 @@ import React from 'react';
 
 const LeftSideNav = () => {
     return (
-        <div className='container w-full'>
-            <div className="drawer">
+        <div className='container w-full bg-[#fafafad7] '>
 
-                <div className="drawer-side">
-                    <label htmlFor="my-drawer-2" className="drawer-overlay"></label>
-                    <ul className="menu h-full p-4 w-full  text-base-content">
+                <div>
+                    <ul className="menu h-full p-4 w-full">
 
+                        <div className='w-full p-3'>
+                        <label>Job Title</label>
+                        <input type="text" className="w-full px-4 py-3 rounded-md" required placeholder='Job Title'/>
+                        </div>
                         <div className='w-full p-3'>
                         <label htmlFor="Select Job Category"> Select Job Type</label>
                             <select name='categoryName' className="w-full px-4 py-3 rounded-md" required>
@@ -40,10 +42,10 @@ const LeftSideNav = () => {
                             </div>
                         </fieldset>
                         </div>
+                        <button className='py-3 w-ful'><a className=" btn-xs">Search</a></button>
                     </ul>
 
                 </div>
-            </div>
         </div>
     );
 };
