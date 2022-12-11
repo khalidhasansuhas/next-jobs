@@ -26,7 +26,7 @@ const NavBar = () => {
                         <li><a>Build Resume</a></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost normal-case text-xl"><Image src={logo} className='w-24 h-18 hidden md:block'></Image> Next-Job</a>
+                <a className="btn btn-ghost  flex content-center "><Image src={logo} className='w-24 h-18 hidden md:block'></Image><p className='normal-case text-xl'>Next-Job</p></a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
