@@ -6,16 +6,17 @@ import Content from "./Content";
 export default function Layout({ children }) {
     return (
         <>
-            <div className="sm:h-full">
+            <div>
                 <NavBar></NavBar>
-                <main className="max-w-[1240px] mx-auto grid grid-cols-10 gap-2 ">
+                <main>
+                    {children}
 
-                    <div className="col-span-10 md:col-span-3 md:mb-5">
+                    {/* <div className="col-span-10 md:col-span-3 md:mb-5 mt-24 ">
                         <LeftSideNav></LeftSideNav>
                     </div>
-                    <div className=" col-span-10 md:col-span-7 mb-5">
+                    <div className=" col-span-10 md:col-span-7 ps-5 mb-5 mt-24">
                         <Content></Content>
-                    </div>
+                    </div> */}
 
                 </main>
                 <Footer></Footer>
