@@ -2,11 +2,9 @@ import React from 'react';
 
 const LeftSideNav = () => {
     return (
-        <div className='container w-full shadow-xl'>
-            <div >
-
-                <div >
-                   
+        <div className='container w-full '>
+            <div>
+                <div>
                     <ul className="menu h-full p-4 w-full  text-base-content">
 
                         <div className='w-full p-3'>
