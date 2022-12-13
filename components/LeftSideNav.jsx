@@ -2,7 +2,7 @@ import React from "react";
 
 const LeftSideNav = () => {
   return (
-    <div className="container bg-[#fafafad7] p-4 w-full">
+    <div className="container bg-[#fafafad7] p-4 w-full shadow-md">
       <h1 className="text-3xl text-blue-500 py-4">Search Jobs</h1>
 
       <div className="w-full py-3">
