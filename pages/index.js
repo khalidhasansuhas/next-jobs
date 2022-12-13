@@ -1,8 +1,16 @@
 import Head from 'next/head'
+import { useEffect, useState } from 'react';
 import Base from '../components/Base'
 
 export default function Home() {
+  const [isSSR, setIsSSR] = useState(true);
+
+useEffect(() => {
+	setIsSSR(false);
+}, []);
   return (
+   <> 
+    { !isSSR && 
     <div className='h-full'>
       <Head>
         <title>Next-Jobs</title>
@@ -10,7 +18,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>      
       <Base></Base>
-    </div>
+    </div>}
+   
+   </>
 
   )
 }

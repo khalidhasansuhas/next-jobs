@@ -13,6 +13,7 @@ const NavBar = () => {
                     <Link href='/resume'><li><a>Resume</a></li></Link>
                     <Link href='/blog'><li><a>Blog</a></li></Link>
                     <Link href='/career'><li><a>Career Consultation</a></li></Link>
+                    <Link href='/about'><li><a>About Us</a></li></Link>
                         <li tabIndex={0}>
                             <a className="justify-between">
                                 All Jobs
@@ -38,6 +39,7 @@ const NavBar = () => {
                     <Link href='/resume'><li><a>Resume</a></li></Link>
                     <Link href='/blog'><li><a>Blog</a></li></Link>
                     <Link href='/career'><li><a>Career Consultation</a></li></Link>
+                    <Link href='/about'><li><a>About Us</a></li></Link>
                     <li tabIndex={0}>
                         <a>
                             All Jobs
