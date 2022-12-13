@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "6 Resume Mistakes To Stop Making Today",
+    "img": "https://i.ibb.co/ZX6ZztQ/friendly-partners-handshaking-group-meeting-thanking-successful-teamwork.jpg",
+    "date": "June 1, 2022",
+    "view": "2.2k"
+  },
+  {
+    "id": 2,
+    "title": "Remote Interview Tips: How To Assess Company Culture",
+    "img": "https://i.ibb.co/xgP7GRR/closeup-computer-screen-with-african-american-startup-owner-human-resources-team-online-interview-ma.jpg",
+    "date": "June 3, 2022",
+    "view": "3.2k"
+  },
+  {
+    "id": 3,
+    "title": " Interview Mistakes That Are Sabotaging Your Job Search",
+    "img": "https://i.ibb.co/ZK0L03r/mad-hr-representative-pointing-door-asking-candidate-leave.jpg",
+    "date": "June 4, 2022",
+    "view": "2.9k"
+  },
+  {
+      "id": 4,
+      "title": "How To Make Your Resume Stand Out (And Get Past The ATS)",
+      "img": "https://i.ibb.co/9ts0jHj/polite-human-resources-manager-eyewear-sitting-her-desk-extending-hand-camera-open-cooperation-makin.jpg",
+      "date":"June 05, 2022",
+      "view": "2.0k"
+  },
+  {
+      "id": 5,
+      "title": "How To Get A Raise At Work",
+      "img": "https://i.ibb.co/vPdZCXN/happy-african-american-businessman-suit-looking-laptop-excited-by-good-news-online-black-man-winner.jpg",
+      "date": "June 08, 2022",
+      "view": "1.2k"
+  },
+  {
+      "id": 6,
+      "title": "Tips For Starting A New Job As A Remote Employee",
+      "img": "https://i.ibb.co/Pxh46bG/freelancer-with-glasses-casually-typing-laptop-keyboard-student-with-notebook-studying-remote-smilin.jpg",
+      "date": "June 10, 2022",
+    "view": "2.5k"
+  }
+]
